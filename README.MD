@@ -2,8 +2,7 @@
 
 Aplicativo que permite conversar com vídeos do YouTube usando legendas e a API Google GenAI, via interface web feita com Gradio.
 
-![Imagem da tela do app](https://i.ibb.co/QFTS12fC/Screenshot-661.png)
-
+![Tela do app](https://i.ibb.co/05kKqSN/Screenshot-661.png)
 ---
 
 ## Sumário
